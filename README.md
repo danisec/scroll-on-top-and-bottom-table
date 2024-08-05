@@ -62,6 +62,6 @@ npm install
 npm build
 ```
 
-## Referensi
+## Reference
 
 - [Stackoverflow](https://stackoverflow.com/a/47038108)
